@@ -1,6 +1,7 @@
 
 
-class Soham{
+
+ class newClass{
     public static void main(String args[])
     {
         System.out.println("Hello World");
@@ -8,6 +9,8 @@ class Soham{
         {
             System.out.println("This is a new file");
         }
+        System.out.println("This is a new feature");
+        System.out.println("This is a 2nd new feature");
 
     }
 }
